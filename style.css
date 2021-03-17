@@ -30,6 +30,7 @@
   width: 50px;
   left: 16px;
   bottom: 38px;
+  box-shadow: inset 0px 0px 10px 0px rgba(0,0,0,0.75);
   background-color: #72705a;
   -webkit-transition: .4s;
   transition: .4s;
